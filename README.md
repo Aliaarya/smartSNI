@@ -1,6 +1,5 @@
 # Smart SNI and DNS Proxy Server
-
-This DNS Proxy Server is a Go-based server capable of handling both DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) requests. It features rate limiting and can process DNS queries based on a custom JSON configuration file.
+این DNS Proxy Server یک سرور مبتنی بر Go است که قادر به رسیدگی به درخواست‌های DNS-over-HTTPS (DoH) و DNS-over-TLS (DoT) است.  دارای محدودیت نرخ است و می تواند پرس و جوهای DNS را بر اساس یک فایل پیکربندی سفارشی JSON پردازش کند
 
 ## Features
 
